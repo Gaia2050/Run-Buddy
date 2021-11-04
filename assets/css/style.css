@@ -70,7 +70,7 @@ header h1 {
 
   /*Her0 Style Start*/
   .hero {
-    background-image: url("C:/Users/gaiai/assets/images/hero-bg.jpg");
+    background-image: url('../images/hero-bg.jpg');
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -184,3 +184,40 @@ header h1 {
 .secondary-border {
   border-color: #39a6b2;
 }
+
+.trainers {
+  text-align: center;
+}
+
+.trainer {
+  width: 900px;
+  margin: 0 auto 30px auto;
+  background: #024e76;
+  color: #fce138;
+  overflow: auto;
+}
+
+.trainer img {
+  width: 35%;
+  float: left;
+}
+
+.trainer-bio {
+  padding: 35px;
+  float: left;
+  width: 65%;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+
+
+
+
+
