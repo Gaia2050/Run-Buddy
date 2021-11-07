@@ -7,7 +7,7 @@ A website that offers fitness training services.
 #CSS
 
 ## Website
-https://lernatino.github.io/rub-buddy
+https://lernantino.github.io/rub-buddy
 
 ## Contribution
 Made with ❤ by Gaia DGBWL
