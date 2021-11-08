@@ -162,6 +162,10 @@ footer a {
 
 
 /*what you do*/
+.steps { 
+  background: #fce138;
+}
+
 .step {
   margin: 50px auto;
   padding-bottom: 50px;
@@ -171,51 +175,13 @@ footer a {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-
-}
-
-.steps {
-  background: #fce138;
 }
 
 .step-info {
   flex: 2 70%;
   display: flex;
-  flex: wrap;
+  flex-wrap: wrap;
   align-items: center;
-}
-
-.step h1 {
-  color: #024e76;
-  font-size: 46px;
-  flex: 1 30%;
-}
-
-.step h2 {
-  color: #024e76;
-  font-size: 46px;
-  flex: 1 30%;
-}
-
-
-.step h3 {
-  color: #024e76;
-  font-size: 46px;
-  flex: 1 30%;
-}
-
-.step h4 {
-  color: #024e76;
-  font-size: 46px;
-  flex: 1 30%;
-}
-.step-text p {
-  color: #39a6b2;
-  font-size: 18px;
-}
-
-.step-text {
-flex: 12;
 }
 
 .step-img {
@@ -227,6 +193,20 @@ flex: 12;
   max-width: 100%;
 }
 
+.step-text {
+  flex: 12;
+}
+
+.step-text p {
+  color: #39a6b2;
+  font-size: 18px;
+}
+
+.step-text h4 {
+  font-size: 26px;
+  line-height: 1.5;
+  color: #024e76;
+}
 /*what you do*/
 .section-title {
   font-size: 55px;
@@ -242,8 +222,6 @@ flex: 12;
   border-color: #39a6b2;
 }
 
-.trainers {
-}
 
 .trainer {
   width: 900px;
