@@ -358,7 +358,7 @@ footer a {
   margin-top: 5px;
   border-radius: 10px;
 }
-/* left off here */
+
 .contact-form input:focus, .contact-textarea:focus {
   background-color: var(--quaternary-color);
   outline: none;
@@ -380,8 +380,8 @@ footer a {
   background: var(--tertiary-color);
 }
 
-.contact{
-  background: var(--scondary-color);
+.contact {
+  background: var(--secondary-color);
 }
 
 .contact h2 {
